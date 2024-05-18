@@ -1,0 +1,2 @@
+# DAC_ADAK4490S83.V1
+Модуль ЦАП [BD.ADAK4490S83.V1] (DAC - Master)
